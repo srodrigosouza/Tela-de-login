@@ -27,4 +27,4 @@ Uma interface moderna de login com fundo em vídeo, desenvolvida com HTML e CSS,
 
 - Utilize vídeos leves (de até 5MB) para não comprometer o tempo de carregamento da página.
 - Personalize o estilo no arquivo style.css para ajustar cores, fontes ou animações.
-- Se for integrar com back-end (PHP, Node, etc), conecte os campos do formulário ao seu sistema de autenticação.
+- Se for integrar com back-end (PHP, Node, etc), conecte os campos do formulário ao seu sistema de autenticação
